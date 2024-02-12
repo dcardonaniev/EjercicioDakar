@@ -1,4 +1,4 @@
-package me.davidlake.savetheropa;
+package me.davidlake.dakar;
 
 public class Auto extends Vehiculo {
     public static final Double PESO = 1000.0;

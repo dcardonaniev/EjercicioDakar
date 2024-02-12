@@ -1,4 +1,4 @@
-package me.davidlake.savetheropa;
+package me.davidlake.dakar;
 
 public class SocorristaAuto {
     public void socorrer(Auto auto){

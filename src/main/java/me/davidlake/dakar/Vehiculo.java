@@ -1,4 +1,4 @@
-package me.davidlake.savetheropa;
+package me.davidlake.dakar;
 
 public class Vehiculo {
     private double velocidad;
